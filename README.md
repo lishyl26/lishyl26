@@ -1,4 +1,4 @@
-### Hi there 👋 my name is lishy
+### Hi there 👋 my name is Elisabeth
 
 <!--
 **lishyl26/lishyl26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
